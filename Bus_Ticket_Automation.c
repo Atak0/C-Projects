@@ -1,7 +1,3 @@
-
-   //OGRENCI AD-SOYAD = FURKAN ATAK
-   //OGRENCI NO = 22100011061
-
 #include <stdio.h>
 #include <stdlib.h>
 
